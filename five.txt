@@ -1,5 +1,5 @@
 WORKING
-israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.190 WV10 3/5 
+israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.190 WV10  90.241.56.186 CV10 3/5 
 viran aarun    bt      86.129.152.238  86.136.9.10    86.136.41.255  FY7 86.178.131.137  WF10  81.153.10.25 B11   2/5
 George Gav  Virgin  86.30.171.237  82.34.58.109	 82.3.106.28  TS17  77.102.57.101	  BA14  0/5
 amela johnson vodafone   84.71.174.138   HA3   90.251.39.27 BS34  84.71.68.59  E20   84.71.172.16	 CM7 90.243.62.210  NW1 1/5
@@ -24,7 +24,7 @@ georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  4.5/5
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
 
-muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  2/5
+muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15 2/5
 ferrrochawi   bt   86.158.10.244 RG19    5/5  on Hold Oct 31
 nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14 5/5  verified Oct 16 : 21:24
 londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29
@@ -50,7 +50,6 @@ genovalohiny     sky  5.69.10.129   5.69.19.29  IP3  4/5   verified  Oct 20 17:1
 OCT16
 
 OCT 18 
-cremerthiago   virgin  86.14.140.46	   KT6   5/5  verified  OCT 18  01:49
 lozamoanjelo   bt      86.156.249.71   bt12  2/5  verified OCT 18  08:40
 marceloforma   virgin  86.4.45.85   NE24   4/5    verified OCT 18  22:40
 tatoonak65     bt  81.129.136.17    HP2    4/5   verified OCT 18  23:40
@@ -63,7 +62,7 @@ nandhiniavez  sky   90.209.193.151   TF2  4/5    verified OCT 20  18:53
 N.T
 OCT 21
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 4/5 not verified  14:20
-bifgraazy     sky    5.68.173.151   L39  2.218.110.104	 SG16 3/5 not verified  19:50
+bifgraazy     sky    5.68.173.151   L39  2.218.110.104	 SG16 4/5  verified    Oct 23 20:51
 OCT 22
 nadeerkavee  virgin  81.108.229.36  CM18  3/5  not verified
 OCT 23
@@ -79,6 +78,8 @@ kiriakarki   sky    94.13.213.112	  CV21  3/5  not Verified
 
 
 
+
+cremerthiago   virgin  86.14.140.46	   KT6   5/5   92.234.91.203	NE34 verified  OCT 18  01:49
 abreomaneoucheka   bt  31.49.9.49   IG3     1/5  verified  OCT 15 21:33  bannn
 gaylandkallman  bt   86.140.129.180	  90.244.172.41  WS14  SR7   4/5   bann
 querogaviktor   sky  90.216.202.253	 EX16  1/5   bannnn
