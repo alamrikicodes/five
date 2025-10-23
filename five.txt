@@ -68,7 +68,9 @@ bifgraazy     sky    5.68.173.151   L39   3/5 not verified  19:50
 OCT 22
 nadeerkavee  virgin  81.108.229.36  CM18  3/5  not verified
 OCT 23
-shobhnabaki  bt      86.155.78.250	EC4R 2/5  not verified
+shobhnabaki  bt      86.155.78.250	EC4R  2/5  not verified
+kiriakarki   sky    94.13.213.112	  CV21  3/5  not Verified
+
 
 
 
