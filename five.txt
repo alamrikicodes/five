@@ -1,5 +1,5 @@
 WORKING
-israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.190 WV10  90.241.56.186 CV10 3/5 
+israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.190 WV10  90.241.56.186 CV10 4/5 
 viran aarun    bt      86.129.152.238  86.136.9.10    86.136.41.255  FY7 86.178.131.137  WF10  81.153.10.25 B11   2/5
 George Gav  Virgin  86.30.171.237  82.34.58.109	 82.3.106.28  TS17  77.102.57.101	  BA14  0/5
 amela johnson vodafone   84.71.174.138   HA3   90.251.39.27 BS34  84.71.68.59  E20   84.71.172.16	 CM7 90.243.62.210  NW1 1/5
@@ -23,13 +23,12 @@ ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17
 georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  4.5/5  
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
-
-muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15 2/5
+muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15 1/5
 ferrrochawi   bt   86.158.10.244 RG19    5/5  on Hold Oct 31
-nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14 5/5  verified Oct 16 : 21:24
+nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14 5/5  U.R Oct 24 : 21:24
 londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29
 Francianneveruska  sky  46.65.141.236	 CB9   verified on Oct 9 12:04  5/5   on hold Oct 25
-ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41 1/5
+ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41 2.5/5
 barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   2/5  
 gelsimarnovotny  sky  90.195.189.128	TF3   94.195.33.14	SR4  1.5/5  U.R  OCT 14 16:45    
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
@@ -37,7 +36,7 @@ kegandimanmarco  bt  86.184.100.91  NR31  109.148.19.43  GU46 109.148.251.57  RH
 neromalote     Virgin  77.103.233.199  B70    82.16.77.130	 BD5  2.5/5
 grasselerdiego  virgin  82.34.26.192    KY2   0/5
 duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
-
+ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 4/5 not verified  14:20
 
 
 NEW ACC
@@ -61,7 +60,6 @@ nandhiniavez  sky   90.209.193.151   TF2  4/5    verified OCT 20  18:53
 
 N.T
 OCT 21
-ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 4/5 not verified  14:20
 bifgraazy     sky    5.68.173.151   L39  2.218.110.104	 SG16 4/5  verified    Oct 23 20:51
 OCT 22
 nadeerkavee  virgin  81.108.229.36  CM18  3/5  not verified
