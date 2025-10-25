@@ -20,15 +20,16 @@ PE7 1/5
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1/5
 suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 1.5/5  
 ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 2.5/5
-georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  4.5/5  
+georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91CH43   0/5  
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
 muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15 1/5
 ferrrochawi   bt   86.158.10.244 RG19    5/5  on Hold Oct 31
-nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14 5/5  U.R Oct 24 : 21:24
+nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  5/5
 londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29
 Francianneveruska  sky  46.65.141.236	 CB9   verified on Oct 9 12:04  5/5   on hold Oct 25
 ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41 2.5/5
+
 barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   2/5  
 gelsimarnovotny  sky  90.195.189.128	TF3   94.195.33.14	SR4  1.5/5  U.R  OCT 14 16:45    
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
@@ -36,7 +37,7 @@ kegandimanmarco  bt  86.184.100.91  NR31  109.148.19.43  GU46 109.148.251.57  RH
 neromalote     Virgin  77.103.233.199  B70    82.16.77.130	 BD5  2.5/5
 grasselerdiego  virgin  82.34.26.192    KY2   0/5
 duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
-ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 4/5 not verified  14:20
+ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 2/5 not verified  14:20
 
 
 NEW ACC
@@ -62,10 +63,15 @@ N.T
 OCT 21
 bifgraazy     sky    5.68.173.151   L39  2.218.110.104	 SG16 4/5  verified    Oct 23 20:51
 OCT 22
-nadeerkavee  virgin  81.108.229.36  CM18  3/5  not verified
+nadeerkavee  virgin  81.108.229.36  CM18  4/5  not verified
 OCT 23
 shobhnabaki  bt      86.155.78.250	EC4R  2/5  not verified
 kiriakarki   sky    94.13.213.112	  CV21  3/5  not Verified
+OCT 24
+luckinhasci virgin 86.12.230.247	 SO53   2/5  not verified
+OCT 25
+aineseyhonar  bt  86.179.206.83  TN34   3/5   not verified
+cearagalva  virgin  94.195.21.6  SS11
 
 
 
