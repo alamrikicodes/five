@@ -39,7 +39,7 @@ luckinhasci virgin 86.12.230.247	 SO53   1/5
 suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  1/5
 
 
-nayropintinha   sky   2.125.226.144  NE28
+
 
 
 NEW ACC
@@ -61,6 +61,8 @@ ronquiAntonnia   bt   86.168.156.82	 BA7    3/5   not verified
 glicetonete  sky  90.213.94.253  BS9      3/5   verified  OCT 30 07:47
 surrabudina virgin  94.174.195.195  DA5    4/5  verified  OCT 29 23:04
 
+OCT 30
+grizostesumair  bt  86.149.148.155   EC4R   3/5 not verified
 
 
 
