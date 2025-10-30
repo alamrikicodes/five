@@ -9,11 +9,11 @@ Frank kmp   Vodafone 90.251.185.26    90.251.85.40   90.251.85.221	 w5  90.251.2
 Elizabeth T    Virgin   86.11.251.111	82.0.124.4  82.0.126.212 NE88  82.5.72.128  RM9   82.9.65.190  TS6   80.1.194.206  NN3  82.19.242.192  WA1  92.238.130.204  B29 1/5
 fredrick jon  virgin   82.42.115.86  82.42.181.238	B65  86.22.120.251	 SW9   82.32.175.26 CR0  81.102.56.234	CM20  81.110.239.119  195.188.0.53  CM2  90.210.233.40	ST7  2/5
 Novak C    Sky    151.231.156.169	 151.231.191.113	  SG13  151.231.173.105  WV14  151.229.230.195	CW9 151.229.145.82  CO4  90.221.44.192  PL2  0/5
-george stephanos   sky  2.218.44.49  ML1    1/5  
+george stephanos   sky  2.218.44.49  ML1    3/5  
 Auroralaura     vodafone   80.177.28.46   NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4
 Jimmy renato      BT      109.147.162.42	N8  109.147.52.83 L8 109.147.73.29 tw7  2/5  on hold Oct 17
 
-Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  904196.13.214	 NW4 2/5
+Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4 4/5
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5
 suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 1.5/5  
 ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 2.5/5
@@ -24,7 +24,7 @@ muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1
 ferrrochawi   bt   86.158.10.244 RG19    5/5  on Hold Oct 31
 nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  0/5
 londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29
-ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32  3/5
+ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32  0/5
 barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1.5/5      
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
 duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
@@ -35,8 +35,8 @@ nadeerkavee  virgin  81.108.229.36  CM18  2.218.9.75  SE10  0/5  not verified
 kiriakarki   sky    94.13.213.112	  CV21  0/5  not Verified
 nandhiniavez  sky   90.209.193.151   TF2  4/5    U.R OCT 26  23.03
 shobhnabaki  bt      86.155.78.250	EC4R  1/5  not verified
-
-
+aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8  1/5  
+luckinhasci virgin 86.12.230.247	 SO53   1/5
 
 
 
@@ -53,17 +53,12 @@ callrbranda39  sky  90.222.136.25	 B71    2/5
 
 N.T
 
-OCT 23
-
-OCT 24
-luckinhasci virgin 86.12.230.247	 SO53   4/5  verified  OCT 27 15:34
 OCT 25
-aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8  4/5  not verified
 suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  4/5  verified  OCT 28 18:34
 luzmarinafe   virgin  86.13.114.139  WF10   3/5   not verified
 ronquiAntonnia   bt   86.168.156.82	 BA7    3/5   not verified
 glicetonete  sky  90.213.94.253  BS9      3/5   not verified
-surrabudina virgin  94.174.195.195  DA5   3/5   not verified
+surrabudina virgin  94.174.195.195  DA5    4/5  verified  OCT 29 23:04
 
 
 
