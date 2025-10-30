@@ -23,7 +23,6 @@ harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5
 muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15  86.138.78.153  DE21 1.5/5
 ferrrochawi   bt   86.158.10.244 RG19    5/5  on Hold Oct 31
 nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  0/5
-londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29
 ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32  0/5
 barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1.5/5      
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
@@ -37,8 +36,10 @@ nandhiniavez  sky   90.209.193.151   TF2  4/5    U.R OCT 26  23.03
 shobhnabaki  bt      86.155.78.250	EC4R  1/5  not verified
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8  1/5  
 luckinhasci virgin 86.12.230.247	 SO53   1/5
+suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  1/5
 
 
+nayropintinha   sky   2.125.226.144  NE28
 
 
 NEW ACC
@@ -54,10 +55,10 @@ callrbranda39  sky  90.222.136.25	 B71    2/5
 N.T
 
 OCT 25
-suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  4/5  verified  OCT 28 18:34
+
 luzmarinafe   virgin  86.13.114.139  WF10   3/5   not verified
 ronquiAntonnia   bt   86.168.156.82	 BA7    3/5   not verified
-glicetonete  sky  90.213.94.253  BS9      3/5   not verified
+glicetonete  sky  90.213.94.253  BS9      3/5   verified  OCT 30 07:47
 surrabudina virgin  94.174.195.195  DA5    4/5  verified  OCT 29 23:04
 
 
@@ -68,7 +69,7 @@ surrabudina virgin  94.174.195.195  DA5    4/5  verified  OCT 29 23:04
 
 
 
-
+londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29  bannn
 grasselerdiego  virgin  82.34.26.192    KY2   0/5   banned
 kegandimanmarco  bt  86.184.100.91  NR31  109.148.19.43  GU46 109.148.251.57  RH10 1.5/5  bannnnnn
 neromalote     Virgin  77.103.233.199  B70    82.16.77.130	 BD5  2.5/5
