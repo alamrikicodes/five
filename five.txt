@@ -28,7 +28,7 @@ barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1.5/5
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
 duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 1.5/5
-bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16 1/5
+bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16  94.3.88.226  NE12 1/5
 nadeerkavee  virgin  81.108.229.36  CM18  2.218.9.75  SE10  0/5  not verified
 kiriakarki   sky    94.13.213.112	  CV21  0/5  not Verified
 nandhiniavez  sky   90.209.193.151   TF2  4/5    U.R OCT 26  23.03
