@@ -5,9 +5,8 @@ George Gav  Virgin  86.30.171.237  82.34.58.109	 82.3.106.28  TS17  77.102.57.10
 amela johnson vodafone   84.71.174.138   HA3   90.251.39.27 BS34  84.71.68.59  E20   84.71.172.16	 CM7 90.243.62.210  NW1 1/5
 vitalg       virgin    82.43.185.109  81.109.135.30	 GU1 86.2.100.116  KA13  81.97.229.239  DE23  92.239.184.86	 WS2  77.101.59.190  BA14  86.16.153.159  BD2 1.5/5 
 larryhard   virgin   90.248.156.155  90.248.203.12 90.248.1 03.72 B78	  90.244.142.249  BA2  90.243.108.109	  OL11  90.251.45.186  BS3  94.174.68.249	  GL2  2/5   
-Frank kmp   Vodafone 90.251.185.26    90.251.85.40   90.251.85.221	 w5  90.251.29.166  OL1 90.251.134.18 WN2  81.77.5.65 BD11  84.71.53.141 MK8 0/5
-Elizabeth T    Virgin   86.11.251.111	82.0.124.4  82.0.126.212 NE88  82.5.72.128  RM9   82.9.65.190  TS6   80.1.194.206  NN3  82.19.242.192  WA1  92.238.130.204  B29 1/5
-fredrick jon  virgin     81.102.56.234	CM20  81.110.239.119  195.188.0.53  CM2  90.210.233.40	ST7  86.29.166.98  NG31 0/5
+Elizabeth T    Virgin   86.11.251.111	82.0.124.4  82.0.126.212 NE88  82.5.72.128  RM9   82.9.65.190  TS6   80.1.194.206  NN3  82.19.242.192  WA1  92.238.130.204  B29 2/5
+fredrick jon  virgin     81.102.56.234	CM20  81.110.239.119  195.188.0.53  CM2  90.210.233.40	ST7  86.29.166.98  NG31 3/5
 Novak C    Sky    151.231.156.169	 151.231.191.113	  SG13  151.231.173.105  WV14  151.229.230.195	CW9 151.229.145.82  CO4  90.221.44.192  PL2  0/5
 george stephanos   sky  2.218.44.49  ML1    2.5/5  
 Auroralaura     vodafone   80.177.28.46   NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4
@@ -15,7 +14,7 @@ Jimmy renato      BT      109.147.162.42	N8  109.147.52.83 L8 109.147.73.29 tw7 
 Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4 2/5
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5
 suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 1.5/5  
-ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 2.5/5
+ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 3/5   low quality
 georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43   0/5  
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
@@ -37,7 +36,7 @@ luckinhasci virgin 86.12.230.247	 SO53   1/5
 suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  1/5
 luzmarinafe   virgin  86.13.114.139  WF14   1/5   not verified
 surrabudina virgin  94.174.195.195  DA5    1/5  verified  OCT 29 23:04
-
+ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  4/5   not verified
 
 
 NEW ACC
@@ -54,7 +53,7 @@ N.T
 
 OCT 25
 
-ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  4/5   not verified
+
 glicetonete  sky  90.213.94.253  BS9      3/5   verified  OCT 30 07:47
 
 OCT 30
@@ -123,7 +122,7 @@ Ava rony     virgin    81.111.36.143  77.98.43.77   77.98.129.235	  M61   4/5 ve
 avac williams  vodafone   84.68.31.95    81.77.219.31   4/5    verified    Sep 16 17:26    bannn
 kevin leel   virgin  86.16.201.49  86.16.147.62	 SK6 82.17.213.75 CF3   80.4.38.222  SR4 1.5/5   bannnn  
 82.42.115.86  82.42.181.238	B65  86.22.120.251	 SW9   82.32.175.26 CR0
-
+Frank kmp   Vodafone 90.251.185.26    90.251.85.40   90.251.85.221	 w5  90.251.29.166  OL1 90.251.134.18 WN2  81.77.5.65 BD11  84.71.53.141 MK8  81.78.96.39  WD6  0/5  BANNED
 
 
 zhacker251  virgin  82.10.128.231	   PR1
