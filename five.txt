@@ -15,8 +15,7 @@ Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5
 suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 1.5/5  
 ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 3/5   low quality
-
-georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26 0/5  
+georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26 1.5/5  
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
 muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15  86.138.78.153  DE21 1.5/5
