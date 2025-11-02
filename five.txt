@@ -38,41 +38,34 @@ suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  1/5
 luzmarinafe   virgin  86.13.114.139  WF14   1/5   not verified
 surrabudina virgin  94.174.195.195  DA5    1/5  verified  OCT 29 23:04
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  4/5   not verified
-
+glicetonete  sky  90.213.94.253  BS9      1/5   verified  OCT 30 07:47
 
 NEW ACC
 
-OCT16
-
-OCT 18 
-lozamoanjelo   bt   86.156.249.71   bt12  2/5  verified OCT 18  08:40
-OCT 19
-callrbranda39  sky  90.222.136.25	 B71    2/5
 
 
 N.T
 
 OCT 25
-glicetonete  sky  90.213.94.253  BS9      3/5   verified  OCT 30 07:47
 
 OCT 30
-grizostesumair  bt  86.149.148.155   EC4R   4/5  81.129.30.106  SR2  verified OCT 30 07:47
+
 tutoriasamtani  sky  2.216.215.54	   b4     3/5 not verified
 
 OCT 31
-KulyaninErma    bt  86.131.101.101   GL4     3/5 not verified
+KulyaninErma    bt  86.131.101.101   GL4    3/5 not verified
 
 Nov 1
 giumaraletrina  sky  94.6.60.147  SN1      3/5 not verified
 lauannavageles  LE3  80.0.83.251  NG17     3/5 not verified
+Nov 2
 
 
 
 
 
-
-
-
+callrbranda39  sky  90.222.136.25	 B71   90.217.157.32  DA15   2/5   BANNNNN
+grizostesumair  bt  86.149.148.155   EC4R   4/5  81.129.30.106  SR2  verified OCT 30 07:47  bannn
 genovalohiny     sky  5.69.10.129   5.69.19.29  IP3   90.211.35.128  ST17  1.5/5  bannn
 londedips   bt    31.51.38.243	BD4  4.5/5   on Hold Oct 29  bannn
 grasselerdiego  virgin  82.34.26.192    KY2   0/5   banned
