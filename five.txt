@@ -28,8 +28,8 @@ duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 1.5/5
 bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16  94.3.88.226  NE12  5.71.109.101	SW15 2/5  U.R
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10  1/5  not verified
+kiriakarki   sky    94.13.213.112	  CV21  4.5/5  not Verified
 
-kiriakarki   sky    94.13.213.112	  CV21  0/5  not Verified
 nandhiniavez  sky   90.209.193.151   TF2  4/5    U.R OCT 26  23.03
 shobhnabaki  bt      86.155.78.250	EC4R  1/5  not verified
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8  1/5  
@@ -42,12 +42,6 @@ glicetonete  sky  90.213.94.253  BS9      1/5   verified  OCT 30 07:47
 
 NEW ACC
 
-
-
-N.T
-
-OCT 25
-
 OCT 30
 
 tutoriasamtani  sky  2.216.215.54	   b4     3/5 not verified
@@ -59,6 +53,12 @@ Nov 1
 giumaraletrina  sky  94.6.60.147  SN1      3/5 not verified
 lauannavageles  LE3  80.0.83.251  NG17     3/5 not verified
 Nov 2
+pawspelka    bt  217.39.251.37  CV2        4/5 not verified
+
+
+
+
+
 
 
 
