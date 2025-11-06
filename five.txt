@@ -12,26 +12,26 @@ george stephanos   sky  2.218.44.49  ML1    2.5/5
 Auroralaura     vodafone   80.177.28.46   NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4
 Jimmy renato      BT      109.147.162.42	N8  109.147.52.83 L8 109.147.73.29 tw7  2/5  on hold Oct 17
 Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4 2/5
-JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5
-suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 1.5/5  
-ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 3/5   low quality
-georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26 1.5/5  
+JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5  on Hold Nov16
+suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 81.78.66.230  N12  1/5  
+ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 86.17.158.50  DN32  80.1.127.186	 TS8 3.5/5   low quality
+georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26   94.4.58.201  NE9  1.5/5
+
 suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   1/5  
-muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15  86.138.78.153  DE21 1.5/5
-ferrrochawi   bt   86.158.10.244 RG19  86.132.13.57  SW3   2/5  
+muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15  86.138.78.153  DE21  31.50.237.42	M5 0.5/5
+ferrrochawi   bt   86.158.10.244 RG19  86.132.13.57  SW3  109.148.229.183	 CH41  3/5  
 nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  0/5
-ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32  0/5
-barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1.5/5      
+ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32   151.227.213.201	  WS10 2/5
+barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1/5     
 Enoisister      BT    86.140.49.225	CW2     Verified   2.5/5   
 duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 1.5/5
-bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16  94.3.88.226  NE12  5.71.109.101	SW15 2/5  U.R
+bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15    94.3.88.226  NE12  0/5  U.R
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10  1/5  not verified
-kiriakarki   sky    94.13.213.112	  CV21  4.5/5  not Verified
-
-nandhiniavez  sky   90.209.193.151   TF2  4/5    U.R OCT 26  23.03
-shobhnabaki  bt      86.155.78.250	EC4R  1/5  not verified
+kiriakarki   sky    94.13.213.112	  CV21  2/5  not Verified
+nandhiniavez  sky   90.209.193.151   TF2   176.25.197.156  IV10  1/5 
+shobhnabaki  bt      86.155.78.250	EC4R  1/5  verified  Nov 2 18:00
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8  1/5  
 luckinhasci virgin 86.12.230.247	 SO53   1/5
 suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  1/5
@@ -39,21 +39,17 @@ luzmarinafe   virgin  86.13.114.139  WF14   1/5   not verified
 surrabudina virgin  94.174.195.195  DA5    1/5  verified  OCT 29 23:04
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  4/5   not verified
 glicetonete  sky  90.213.94.253  BS9      1/5   verified  OCT 30 07:47
+nikonflach   sky   2.219.251.51   BD7      0/5 not verified
+pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7     0/5 not verified
+lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   1/5
+tutoriasamtani  sky  2.216.215.54	   b4   2.124.227.90  RG24  5/5 verified   Nov 4 22:50 
+cearagalva   bt   31.118.223.48	   CV9   2/5
+
 
 NEW ACC
 
-OCT 30
-
-tutoriasamtani  sky  2.216.215.54	   b4     3/5 not verified
-
-OCT 31
-KulyaninErma    bt  86.131.101.101   GL4    3/5 not verified
-
 Nov 1
-giumaraletrina  sky  94.6.60.147  SN1      3/5 not verified
-lauannavageles  LE3  80.0.83.251  NG17     3/5 not verified
-Nov 2
-pawspelka    bt  217.39.251.37  CV2        4/5 not verified
+giumaraletrina  sky  94.6.60.147  SN1      5/5 verified  Nov 5  23:04
 
 
 
@@ -63,7 +59,8 @@ pawspelka    bt  217.39.251.37  CV2        4/5 not verified
 
 
 
-
+KulyaninErma    bt  86.131.101.101   GL4   86.163.106.32   b68   81.148.231.24	SE13  81.154.209.230		NR1  3/5 verified  Nov 4 22:50 Bannnn
+bamrahsme    sky   46.64.181.89	   BN3   151.226.89.46  109.181.218.242	  WF16  4/5  verified  Nov 2 23:08 BANNN
 callrbranda39  sky  90.222.136.25	 B71   90.217.157.32  DA15   2/5   BANNNNN
 grizostesumair  bt  86.149.148.155   EC4R   4/5  81.129.30.106  SR2  verified OCT 30 07:47  bannn
 genovalohiny     sky  5.69.10.129   5.69.19.29  IP3   90.211.35.128  ST17  1.5/5  bannn
@@ -72,7 +69,7 @@ grasselerdiego  virgin  82.34.26.192    KY2   0/5   banned
 kegandimanmarco  bt  86.184.100.91  NR31  109.148.19.43  GU46 109.148.251.57  RH10 1.5/5  bannnnnn
 neromalote     Virgin  77.103.233.199  B70    82.16.77.130	 BD5  2.5/5
 Olivia A      vodafone   62.49.5.161  SW11  84.69.163.106 NE63  84.71.221.172  NG14  81.77.31.24  LS25  90.243.129.123	 UB2  1/5
-yoliebolsas  virgin  81.96.218.151  TS12  4/5    verified OCT 20  14:33  bannnn
+yoliebolsas  virgin  81.96.218.151  TS12  4/5    verified OCT 20  14:33  bannnnannnn
 STEPHEN V  THREE    92.40.197.228  92.40.218.69	 M43   92.40.111.108  LS8  92.40.194.195 92.40.195.138	 EH1 92.41.150.130	M11 92.40.111.12  LS8  92.40.57.149	NG19  92.40.73.199  w2  188.30.63.109  g3 3/5  bannn
 Francianneveruska  sky  46.65.141.236	 CB9   verified on Oct 9 12:04  5/5   on hold Oct 25
 marceloforma   virgin  86.4.45.85   NE24   4/5    verified OCT 18  22:40  bannnn
