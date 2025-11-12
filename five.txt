@@ -1,6 +1,5 @@
 zzxxWORKING
 israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.190 WV10  90.241.56.186 CV10  62.49.130.133 NW3  84.69.204.211 S5 193.237.211.80	 S43  4/5 
-viran aarun    bt      86.129.152.238  86.136.9.10    86.136.41.255  FY7 86.178.131.137  WF10  81.153.10.25 B11   2/5
 George Gav  Virgin  86.30.171.237  82.34.58.109	 82.3.106.28  TS17  77.102.57.101	 BA14  0.5/5
 amela johnson vodafone   84.71.174.138   HA3   90.251.39.27 BS34  84.71.68.59  E20   84.71.172.16	 CM7 90.243.62.210  NW1   90.243.14.126	  NW11 1/5
 vitalg       virgin    82.43.185.109  81.109.135.30	 GU1 86.2.100.116  KA13  81.97.229.239  DE23  92.239.184.86	 WS2  77.101.59.190  BA14  86.16.153.159  BD2 1/5 
@@ -13,31 +12,26 @@ Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5  on Hold Nov16
 suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 81.78.66.230  N12  2/5  
 georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26   94.4.58.201  NE9  1.5/5
-suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   0/5 
 muthurakamsi  bt   109.155.214.147	 CF14  31.126.184.23	TN14 109.148.117.197	RH1  109.158.213.79  DL15  86.138.78.153  DE21  31.50.237.42	M5  86.172.77.14  CT11  3/5
 ferrrochawi   bt   86.158.10.244 RG19  86.132.13.57  SW3  109.148.229.183	 CH41  0/5  
-nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  0/5
+nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20  2/5
 ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32   151.227.213.201	  WS10 0/5
-barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   1/5     
-duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41
+barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   82.10.84.124  e10  3.5/5     
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 1.5/5
-bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15    94.3.88.226  NE12  0/5  U.R
+bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15    94.3.88.226  NE12  0.5/5   
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10  2/5  not verified
 kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37 2/5  not Verified
 shobhnabaki  bt      86.155.78.250	EC4R   86.181.106.188   CH49  86.151.159.61  EC4R 2/5  verified  Nov 2 18:00
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8   109.152.11.226	WA7   109.146.123.206   SE4   1/5  
-luckinhasci virgin 86.12.230.247	 SO53   77.96.92.236  BD8   2/5
-suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  2.219.245.74  WN1 1/5   U.R   NOV 8  00:19 
+luckinhasci virgin 86.12.230.247	 SO53   77.96.92.236  BD8   2/5 
 luzmarinafe   virgin  86.13.114.139  WF13   4/5   verified  U.R  NOV 11  08:07
 surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7  0/5  verified  OCT 29 23:04    U.R  NOV 8 12:07
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70 2/5   verified   Nov 9 04:28
-
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14     1/5   verified  OCT 30 07:47
-nikonflach   sky   2.219.251.51   BD7      0/5 not verified
+nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3    0/5 not verified
 pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7     0/5 not verified
 lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   1/5
-tutoriasamtani  sky  2.216.215.54	   b4   2.124.227.90  RG24  5/5 verified   Nov 4 22:50 
 cearagalva   bt   31.118.223.48	   CV9   0.5/5
 giumaraletrina  sky  94.6.60.147  SN1      0/5 verified  Nov 5  23:04
 catalinahartrey   bt   86.162.98.39	  TQ12   4/5 verified  Nov 8  03:00  on hold NOV 23
@@ -53,7 +47,9 @@ Enoisister      BT    86.140.49.225	CW2   31.118.199.140	E14    Verified   2.5/5
 
 NEW ACC
 
-Nov 7
+Nov 11
+klarajawaria   bt    95.144.25.171   N1    2/5 bad ip
+blightsalifu   sky   151.228.75.119  SS17   4/5   verified  Nov 11 19:57
 
 
 
@@ -61,7 +57,11 @@ Nov 7
 
 
 
-
+suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  2.219.245.74  WN1   2.219.245.74   5.66.151.12  CA12  1/5   U.R   NOV 8  00:19  BANNN
+duwaradinsha    sky  151.224.116.20   CF41   5/5 verified  U.R OCT 21 07:41 bannnn
+suedsonwalker   bt  31.127.1.26   DY5   verified   1/5   on Hold Oct 28 bannnn
+viran aarun    bt      86.129.152.238  86.136.9.10    86.136.41.255  FY7 86.178.131.137  WF10  81.153.10.25 B11   2/5  BANNNNN
+tutoriasamtani  sky  2.216.215.54	   b4   2.124.227.90  RG24  2.220.99.223	   SL1  5/5 verified   Nov 4 22:50 BANNED
 nandhiniavez  sky   90.209.193.151   TF2   176.25.197.156  IV10  1/5 banned
 KulyaninErma    bt  86.131.101.101   GL4   86.163.106.32   b68   81.148.231.24	SE13  81.154.209.230		NR1  3/5 verified  Nov 4 22:50 Bannnn
 bamrahsme    sky   46.64.181.89	   BN3   151.226.89.46  109.181.218.242	  WF16  4/5  verified  Nov 2 23:08 BANNN
