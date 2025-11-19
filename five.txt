@@ -20,13 +20,13 @@ barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   82.10.84.124  e
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6 0/5
 bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15    94.3.88.226  NE12  0.5/5   
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10  1/5  not verified
-kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37 2/5  not Verified
+kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37   2.120.84.41	  NE28 2/5  not Verified
 shobhnabaki  bt      86.155.78.250	EC4R   86.181.106.188   CH49  86.151.159.61  EC4R 2/5  verified  Nov 2 18:00
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8   109.152.11.226	WA7   109.146.123.206   SE4  109.158.66.4	  DD4 1.5/5  
 luckinhasci virgin 86.12.230.247	 SO53   77.96.92.236  BD8   86.11.66.191	 WV1   2/5 
 luzmarinafe   virgin  86.13.114.139  WF13   0/5   verified  U.R  NOV 11  08:07
 surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7  0/5  verified  OCT 29 23:04    U.R  NOV 8 12:07
-ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70   86.166.111.183	ME19 2/5   verified   Nov 9 04:28
+ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70   86.166.111.183	ME19 1/5   verified   Nov 9 04:28
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14     2.5/5   verified  OCT 30 07:47
 nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3    0/5 not verified
 pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3    2.5/5 not verified
