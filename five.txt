@@ -33,15 +33,15 @@ pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  
 lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3   86.15.146.166	 OL11  0/5   
 cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   0.5/5
 giumaraletrina  sky  94.6.60.147  SN2      2/5 verified  Nov 5  23:04
-catalinahartrey   bt   86.162.98.39	  TQ12   4/5 verified  Nov 8  03:00  on old NOV 23
+catalinahartrey   bt   86.162.98.39	  TQ12   4/5 verified  Nov 8  03:00  on Hold NOV 23
 blightsalifu   sky   151.228.75.119  SS17   4/5   verified  Nov 11 19:57
 sladechibi    sky   151.231.238.219	 WA9    1/5   not verified
 klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5 0/5   verified Nov 16  15:13
-
+askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22   ON Hold DEC 3
 
 Low Quality
-larryhard   virgin     90.251.45.186  BS3  94.174.68.249	  GL2   86.14.211.16  NG5   81.103.210.105	 LE5 3/5   
+larryhard   virgin     90.251.45.186  BS3  94.174.68.249	  GL2   86.14.211.16  NG5   81.103.210.105	 LE5 4/5   
 ariselacalamero  virgin  86.22.150.55  LU3  86.1.145.193  86.1.155.42 WN8  86.17.198.170	DN35 86.17.158.50  DN32  80.1.127.186	 TS8   77.103.240.34	B32	 0.5/5  
 george stephanos   sky  2.218.44.49  ML1   90.214.91.227  S35   5.65.9.35  FK7   90.193.122.224	  SE25 0.5/5  
 Enoisister      BT    86.140.49.225	CW2   31.118.199.140	E14    Verified   2.5/5   
@@ -55,7 +55,6 @@ Nov 13
 gurjindercoul  bt   31.50.102.132	 LE18   86.142.28.86  WN3  3/5
 
 Nov 17
-askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22
 
 Nov 18
 alannyobeido  bt   86.191.142.220	  WA12   3/5  verified Nov 18 12:22
