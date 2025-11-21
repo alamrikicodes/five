@@ -3,7 +3,7 @@ israelm      vodafone    193.237.251.30 84.66.224.191(Bad ip)	 ox4 193.237.158.1
 George Gav  Virgin  86.30.171.237  82.34.58.109	 82.3.106.28  TS17  77.102.57.101	 BA14  0.5/5
 amela johnson vodafone   84.71.174.138   HA3   90.251.39.27 BS34  84.71.68.59  E20   84.71.172.16	 CM7 90.243.62.210  NW1   90.243.14.126	  NW11 1/5
 vitalg       virgin    82.43.185.109  81.109.135.30	 GU1 86.2.100.116  KA13  81.97.229.239  DE23  92.239.184.86	 WS2  77.101.59.190  BA14  86.16.153.159  BD2   82.11.66.119  ME7 1/5 
-Elizabeth T    Virgin   86.11.251.111	82.0.124.4  82.0.126.212 NE88  82.5.72.128  RM9   82.9.65.190  TS6   80.1.194.206  NN3  82.19.242.192  WA1  92.238.130.204  B29  86.24.37.141	  SS14 1.5/5
+Elizabeth T    Virgin    82.19.242.192  WA1  92.238.130.204  B29  86.24.37.141	 SS14   86.21.46.139  1.5/5
 fredrick jon  virgin     81.102.56.234	CM20  81.110.239.119  195.188.0.53  CM2  90.210.233.40	ST7  86.29.166.98  NG31  86.12.197.117	NE27  86.11.70.71	 WD24 4/5
 Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4 2.5/5
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5  on Hold Nov16
@@ -23,7 +23,6 @@ shobhnabaki  bt      86.155.78.250	EC4R   86.181.106.188   CH49  86.151.159.61  
 aineseyhonar  bt  86.179.206.83  TN34   86.140.40.110  L8   109.152.11.226	WA7   109.146.123.206   SE4  109.158.66.4	 DD4  81.158.227.6  S66 2/5  
 luckinhasci virgin 86.12.230.247	 SO53   77.96.92.236  BD8   86.11.66.191	 WV1  86.26.86.100	SK2  2/5 
 luzmarinafe   virgin  86.13.114.139  WF13   0/5   verified  U.R  NOV 11  08:07
-surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7   81.107.42.170   LU3  3/5  verified  OCT 29 23:04    U.R  NOV 8 12:07
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70   86.166.111.183	ME19 1/5   verified   Nov 9 04:28
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14     2/5   verified  OCT 30 07:47
 nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3    0/5 not verified
@@ -56,7 +55,7 @@ gurjindercoul  bt   31.50.102.132	 LE18   86.142.28.86  WN3  3/5
 
 
 
-
+surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7   81.107.42.170   LU3  3/5  verified  OCT 29 23:04    U.R  NOV 8 12:07   bannn
 Auroralaura     vodafone   80.177.28.46   NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4 bann
 Jimmy renato      BT      109.147.162.42	N8  109.147.52.83 L8 109.147.73.29 tw7  2/5  on hold Oct 17  bann
 alannyobeido  bt   86.191.142.220	  WA12   81.157.100.130   LU6   3/5  verified Nov 18 12:22 bann
@@ -90,7 +89,7 @@ yessitahomi   virgin  92.237.25.141  SS13  82.7.242.127  WF17  82.19.167.197	DE1
 zuinmurniyati  bt  109.152.20.166   ST17  3/5 bannn
 gelsimarnovotny  sky  90.195.189.128	TF3   94.195.33.14	SR4  1.5/5  U.R  OCT 14 16:45  bannnnnn
 lopezriveranhiely  bt  109.147.146.128	CR5  5.80.104.100  CT9   verified oct 6 00:32  BANNN
-Lina He      sky     90.201.213.99  DL5  4/5 banned
+Lina He      sky     90.201.213.99  DL5    86.11.251.111	82.0.124.4  82.0.126.212 NE88  82.5.72.128  RM9   82.9.65.190  TS6   80.1.194.206  NN3 4/5 banned
 strafaciotele   bt  86.189.247.161	NR33   Verified OCT 10 18:46
 adnan aamir   vodafone 90.255.73.44   86.29.128.101   81.98.102.243   81.98.211.37	 82.43.94.180 np 19       banned
 akerr kerr    vodafone   84.70.35.176     banned
