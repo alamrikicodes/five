@@ -32,7 +32,7 @@ giumaraletrina  sky  94.6.60.147  SN2      2/5 verified  Nov 5  23:04
 blightsalifu   sky   151.228.75.119  SS17   4/5   verified  Nov 11 19:57
 sladechibi    sky   151.231.238.219   151.231.239.224	 WA9    1/5   not verified
 klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170	 RG22
-gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5 0/5   verified Nov 16  15:13
+gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115   BN2 0/5   verified Nov 16  15:13
 askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22   ON Hold DEC 3
 
 Low Quality
