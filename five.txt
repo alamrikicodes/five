@@ -25,7 +25,7 @@ luzmarinafe   virgin  86.13.114.139  WF13   0.5/5   verified  U.R  NOV 11  08:07
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70   86.166.111.183	ME19 1/5   verified   Nov 9 04:28
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14     2/5   verified  OCT 30 07:47
 nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3   90.204.93.229	  CA1   1.5/5 not verified
-pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  81.135.60.96  CT9  2.5/5 not verified
+pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  81.135.60.96  CT9  1/5 not verified
 lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3   86.15.146.166	 OL11  0/5   
 cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  1/5
 giumaraletrina  sky  94.6.60.147  SN2      2/5 verified  Nov 5  23:04
