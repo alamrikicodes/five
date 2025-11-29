@@ -29,7 +29,7 @@ nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3   90.204.93.229	  CA1
 pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  81.135.60.96  CT9  1/5 not verified
 lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3   86.15.146.166	 OL11  0/5   
 cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  1/5
-giumaraletrina  sky  94.6.60.147  SN2      2/5 verified  Nov 5  23:04
+giumaraletrina  sky  94.6.60.147  SN2    151.228.239.117  BL1   2/5 verified  Nov 5  23:04
 blightsalifu   sky   151.228.75.119  SS17   4/5   verified  Nov 11 19:57
 sladechibi    sky   151.231.238.219   151.231.239.224	 WA9    1/5   not verified
 klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170RG22  
