@@ -27,12 +27,11 @@ ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70 
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14   90.193.204.152	B33    0/5   verified  OCT 30 07:47
 nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3   90.204.93.229	  CA1   94.0.174.19   CT2   176.251.176.29	MK18 3/5 not verified
 pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  81.135.60.96  CT9  1/5 not verified
-lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3   86.15.146.166	 OL11  82.7.3.182		NN16 0/5   
 cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  1/5
 giumaraletrina  sky  94.6.60.147  SN2    151.228.239.117  BL1   1/5 verified  Nov 5  23:04
 blightsalifu   sky   151.228.75.119  SS17   4/5   verified  Nov 11 19:57
 sladechibi    sky   151.231.238.219   151.231.239.224	 WA9    1/5   not verified
-klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170RG22  
+klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170  RG22   86.176.184.100	PR5   0/5
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115   BN2 1.5/5   verified Nov 16  15:13 U.R NOV 26
 askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22   ON Hold DEC 3
 
@@ -48,7 +47,6 @@ NEW ACC
 
 Nov 13
 
-gurjindercoul  bt   31.50.102.132	 LE18   86.142.28.86  WN3  86.168.36.145   CV6 4/5   verified Nov 21 22:34
 
 
 
@@ -57,6 +55,9 @@ gurjindercoul  bt   31.50.102.132	 LE18   86.142.28.86  WN3  86.168.36.145   CV6
 
 
 
+
+gurjindercoul  bt   31.50.102.132	 LE18   86.142.28.86  WN3  86.168.36.145   CV6  81.151.239.0	 S40 4/5   verified Nov 21 22:34  bannn
+lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3   86.15.146.166	 OL11  82.7.3.182		NN16 0/5  bannnn
 catalinahartrey   bt   86.162.98.39	  TQ12   4/5 verified  Nov 8  03:00  on Hold NOV 23  bannnn
 Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4   94.15.195.190	SP1 2.5/5   bann
 surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7   81.107.42.170   LU3  3/5  verified  OCT 29 23:04    U.R  NOV 8 12:07   bannn
