@@ -15,7 +15,7 @@ ferrrochawi   bt   86.158.10.244 RG19  86.132.13.57  SW3  109.148.229.183	 CH41 
 nazanhonorato  bt  109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14  109.156.154.37	GL20   31.53.219.62  SW9   31.53.113.14  b35  86.184.92.44  SY8 2/5
 ericdefilms      sky  90.207.104.3  BB8  90.208.88.168  UB3 151.227.7.72	CF41  94.12.130.183	  B32   151.227.213.201	 WS10   90.221.20.102	  E3    90.202.178.79   WA8  86.149.122.56	 EC4R  2/5
 barizonheidy   virgin 82.16.183.0  CM17   86.29.161.143	  NG31   82.10.84.124  e10   86.24.255.223	 CV1  82.30.166.100	  LN5  2.5/5 
-ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6  86.180.134.34	 CV6 0/5
+ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6  86.180.134.34	 CV6  82.18.116.110  SR4  0/5
 bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15   94.3.88.226  NE12   5.64.197.175   OX25   94.6.149.61  NE23  0/5   
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10  2/5  not verified  on Hold DEC 11
 kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37   2.120.84.41  NE28  151.229.106.207	 CB6  0/5  not Verified
@@ -27,10 +27,10 @@ ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70 
 glicetonete  sky  90.213.94.253  BS9  149.241.151.64  w14   90.193.204.152	B33    0/5   verified  OCT 30 07:47
 nikonflach   sky   2.219.251.51   BD7   90.221.110.145  e3   90.204.93.229	  CA1   94.0.174.19   CT2   176.251.176.29	MK18 3/5 not verified
 pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  81.135.60.96  CT9  1/5 not verified
-cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  1/5
+cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  31.50.168.111	 TS20 2.5/5
 giumaraletrina  sky  94.6.60.147  SN2    151.228.239.117  BL1   1/5 verified  Nov 5  23:04
 blightsalifu   sky   151.228.75.119  SS17  90.202.183.251  ex 15	 4/5   verified  Nov 11 19:57    on hold Dec 15
-sladechibi    sky   151.231.238.219   151.231.239.224	 WA9   90.193.221.239	  B74    1/5   not verified
+sladechibi    sky   151.231.238.219   151.231.239.224	 WA9   90.193.221.239	  B74   94.13.96.24  B32   94.14.161.68	  WS2  3/5   not verified
 klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170  RG22   86.176.184.100	PR5   0/5
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115  BN2  81.151.244.64  BL8  1.5/5   verified Nov 16  15:13 U.R NOV 26
 askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22   ON Hold DEC 3
