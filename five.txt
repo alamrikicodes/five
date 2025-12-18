@@ -19,7 +19,7 @@ bifgraazy   sky  5.68.173.151  L39  2.218.110.104	 SG16   5.71.109.101	SW15   94
 nadeerkavee  sky  81.108.229.36  CM18  2.218.9.75  SE10   90.201.96.52  BS32  0/5  not verified  
 kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37   2.120.84.41  NE28  151.229.106.207	 CB6   90.217.186.84  RM10  0/5  not Verified  on hold DEC 16
 shobhnabaki  bt      86.155.78.250	EC4R   86.181.106.188   CH49  86.151.159.61  EC4R  81.153.153.198	  CV8  0/5  verified  Nov 2 18:00
-aineseyhonar  BT  81.158.227.6  S66   86.170.143.142	 WA8   86.141.57.93  PE6  217.43.2.22  TQ14  2.5/5  
+aineseyhonar  BT  81.158.227.6  S66   86.170.143.142	 WA8   86.141.57.93  PE6  217.43.2.22  TQ14  2/5  
 luckinhasci virgin 86.12.230.247	 SO53   77.96.92.236  BD8   86.11.66.191	 WV1  86.26.86.100	SK2  77.103.55.76  N13   86.29.192.219  WA5 0/5 
 luzmarinafe   virgin  86.13.114.139  WF13   0.5/5   verified  U.R  NOV 11  08:07
 ronquiAntonnia   bt   86.168.156.82	 BA7  95.144.39.135  BN11  5.80.23.156  S70   86.166.111.183	ME19    109.147.216.90	WV6    31.49.95.232  DT4 0/5  verified   Nov 9 04:28
@@ -29,7 +29,7 @@ pawspelka    bt  217.39.251.37    CV2  217.39.195.176  WN7   217.42.87.107	IP3  
 cearagalva   bt   31.118.223.48	   CV9  81.157.116.232  wf15   86.142.42.129	 BB7  31.50.168.111	 TS20   81.156.45.193 	RG1 2.5/5
 giumaraletrina  sky  94.6.60.147  SN2    151.228.239.117  BL1   151.230.151.16   RH13  2/5 verified  Nov 5  23:04
 blightsalifu   sky   151.228.75.119  SS17  90.202.183.251  ex 15	 4/5   verified  Nov 11 19:57    on hold Dec 15
-sladechibi    sky   151.231.238.219   151.231.239.224	 WA9   90.193.221.239	  B74   94.13.96.24  B32   94.14.161.68	  WS2  1.5/5   not verified
+sladechibi    sky   151.231.238.219   151.231.239.224	 WA9   90.193.221.239	  B74   94.13.96.24  B32   94.14.161.68	  WS2   151.225.154.119	 BN42  1.5/5   not verified
 klarajawaria   bt    95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170  RG22   86.176.184.100	PR5   86.183.234.207  WN7  0/5
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115  BN2  81.151.244.64  BL8  1.5/5   verified Nov 16  15:13 U.R NOV 26
 askuachoo   sky   5.71.85.37    w2   4/5  verified Nov 18 00:22   ON Hold DEC 3
