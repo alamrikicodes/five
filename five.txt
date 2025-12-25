@@ -6,7 +6,7 @@ Elizabeth T    Virgin    82.19.242.192  WA1  92.238.130.204  B29  86.24.37.141	 
 fredrick jon  virgin     86.29.166.98  NG31  86.12.197.117	NE27  86.11.70.71	 WD24  86.8.65.9 RM12   86.14.195.196  OL11   81.105.212.64	 HX3 2/5
 Novak C    Sky     90.221.44.192  PL2   90.206.207.232  DE55   51.198.6.168	  DE1  94.11.44.31  SE16 0/5
 JammieMobrien    Virgin   92.237.47.248  92.237.47.58	  BS30  77.102.20.131  BA14   1.5/5  on Hold Nov16
-suiciogatundo    vodafone   84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 81.78.66.230  N12  81.78.226.35	LU5   84.64.166.96	 WA10   84.65.106.30  SE10   90.254.236.206  HA9  0/5  
+suiciogatundo    vodafone  84.64.166.96	 WA10   84.65.106.30  SE10   90.254.236.206  HA9   90.243.137.85	RG40  0/5  
 georgeannahammon  Sky 2.120.244.109  DA8  2.120.244.239  DA7  109.158.228.91  CH43  94.194.86.97  B26   94.4.58.201  NE9  1/5
 harsahaykappoo   bt  95.146.61.170   SY11   86.141.184.22	 HP6   86.178.201.228	 KT14  86.130.165.20  BA7   86.159.141.154  EC4R  0/5 
 muthurakamsi  bt     86.182.56.43  SW16  86.146.188.43  TR11   109.146.135.136	S81   86.180.220.218  SE13 3.5/5
@@ -66,7 +66,7 @@ lauannavageles  vir  80.0.83.251  NG17   80.192.45.120	 TF2   82.8.254.102	 SR3 
 catalinahartrey   bt   86.162.98.39	  TQ12    109.150.165.137	  FY7  109.146.51.11  BN17 109.153.73.153  FK1  31.118.248.107 w14     4/5 verified  Nov 8    03:00  on Hold NOV 23  bannnn
 Robert Cinerio   SKY   90.208.161.216    HP19 90.208.190.61  ME8  90.196.13.214	 NW4   94.15.195.190	SP1 2.5/5   bann
 surrabudina virgin  94.174.195.195  DA5  82.12.35.181  RM7   81.107.42.170   LU3  3/5  verified  OCT 29 23:04    U.R  NOV 8 12:07   bannn
-Auroralaura     vodafone   80.177.28.46   NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4 bann
+Auroralaura     vodafone   80.177.28.46    84.70.236.198  M13   84.68.102.22  RM8  83.106.13.0  BB6  90.244.160.118	DE11 81.78.66.230  N12  81.78.226.35	LU5      NW11 80.177.17.154 W6  84.69.169.66	G32  84.69.150.165  G31  84.69.168.203 G32 2/5  on hold Nov 4 bann
 Jimmy renato      BT      109.147.162.42	N8  109.147.52.83 L8 109.147.73.29 tw7  2/5  on hold Oct 17  bann
 alannyobeido  bt   86.191.142.220	  WA12   81.157.100.130   LU6   3/5  verified Nov 18 12:22 bann
 suelennpelli  sky  90.218.70.38  CR4  5.70.66.5  CH1  2.219.245.74  WN1   2.219.245.74   5.66.151.12  CA12  1/5   U.R   NOV 8  00:19  BANNN
