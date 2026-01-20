@@ -39,7 +39,7 @@ Enoisister      BT    86.140.49.225	CW2   31.118.199.140	E14   86.172.115.158   
 
 NEW ACC
 Jan 18
-Vimartanara  Virgin  81.96.75.152	 DA7   3/5
+Vimartanara  Virgin  81.96.75.152	 DA7   82.9.172.69   HD5   3/5
 
 
 
