@@ -42,7 +42,7 @@ NEW ACC
 
 aalushakeel   sky  51.191.5.16   LU7     4/5   Verified
 
-saelenasima   bt  31.126.164.186	DN14
+saelenasima   bt  31.126.164.186	DN14   3/5 
 
 
 halawanijawn  BT   86.172.236.27  S40    4/5   Verified Jan 22:52
