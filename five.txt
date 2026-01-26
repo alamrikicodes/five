@@ -37,13 +37,13 @@ Enoisister      BT    86.140.49.225	CW2   31.118.199.140	E14   86.172.115.158   
 
 
 NEW ACC
-halawanijawn  BT   86.172.236.27  S40    4/5   Verified Jan 22:52
-cadidorgela  Virgin  80.1.232.21   WA7   4/5   Verified
+cadidorgela  Virgin  80.1.232.21   WA7   82.4.245.55  TF3  4/5   Verified
 aalushakeel   sky  51.191.5.16   LU7     4/5   Verified
 
 saelenasima   bt  31.126.164.186	DN14
 
 
+halawanijawn  BT   86.172.236.27  S40    4/5   Verified Jan 22:52
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6  86.180.134.34	 CV6  82.18.116.110  SR4   86.176.255.232	  HA6   86.159.17.53	 EC4R  0/5
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115  BN2  81.151.244.64  BL8  1.5/5   verified Nov 16  15:13 U.R NOV 26
 kiriakarki   sky    94.13.213.112	  CV21    176.252.146.25  CV37   2.120.84.41  NE28  151.229.106.207	 CB6   90.217.186.84  RM10  0/5  not Verified  on hold DEC 16
