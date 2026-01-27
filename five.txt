@@ -40,7 +40,7 @@ Enoisister      BT    86.140.49.225	CW2   31.118.199.140	E14   86.172.115.158   
 
 NEW ACC
 
-aalushakeel   sky  51.191.5.16   LU7     4/5   Verified
+aalushakeel   sky  51.191.5.16   LU7    90.200.186.132	 BB9    4/5   Verified
 
 saelenasima   bt  31.126.164.186	DN14   3/5 
 
