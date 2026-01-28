@@ -48,7 +48,7 @@ saelenasima   bt  31.126.164.186	DN14  217.39.203.164	 SK6   4/5
 
 
 
-aalushakeel   sky  51.191.5.16   LU7    90.200.186.132	 BB9    4/5   Verified
+aalushakeel   sky  51.191.5.16   LU7    90.200.186.132	 BB9  81.153.204.178	CV37   4/5   Verified
 halawanijawn  BT   86.172.236.27  S40  86.29.166.98  NG31  86.12.197.117	NE27  86.11.70.71	 WD24  86.8.65.9 RM12   86.14.195.196  OL11    4/5   Verified Jan 22:52
 ambalikaquinn  BT   109.152.132.237	KY1   86.185.60.27	 RG6  86.180.134.34	 CV6  82.18.116.110  SR4   86.176.255.232	  HA6   86.159.17.53	 EC4R  0/5
 gehlotbronte   bt   95.144.121.17	 SW11     51.14.217.109	  NN4  31.54.36.46  LU5   109.157.83.115  BN2  81.151.244.64  BL8  1.5/5   verified Nov 16  15:13 U.R NOV 26
