@@ -28,7 +28,7 @@ klarajawaria   bt    86.183.234.207  WN7   109.153.32.172  WR11  86.175.181.187 
 Vimartanara  Virgin  81.96.75.152	 DA7   82.9.172.69   HD5   1/5
 Hashmatzitouna  Sky  90.200.125.14  W2  1.5/5
 cadidorgela  Virgin  80.1.232.21   WA7   82.4.245.55  TF3  2/5   Verified
-
+saelenasima   bt  31.126.164.186	DN14  217.39.203.164	 SK6   217.39.222.144	 WR3   1/5 
 
 Low Quality
 larryhard   virgin     90.251.45.186  BS3  94.174.68.249	  GL2   86.14.211.16  NG5   81.103.210.105	 LE5 0/5   
@@ -42,7 +42,7 @@ NEW ACC
 
 
 
-saelenasima   bt  31.126.164.186	DN14  217.39.203.164	 SK6   217.39.222.144	 WR3   4/5 
+
 
 
 
