@@ -25,7 +25,7 @@ giumaraletrina  sky  94.6.60.147  SN2    151.228.239.117  BL1   151.230.151.16  
 blightsalifu   sky   151.228.75.119  SS17  90.202.183.251  ex 15   176.250.36.105	 N1   176.249.127.102	 GU22   90.221.47.227  PL22   94.9.88.23   UB7  176.26.157.139	NG5	 1.5/5   verified  Nov 11 19:57    
 sladechibi    sky      94.14.161.68	  WS2   151.225.154.119	 BN42  2.120.110.143	 SE28   86.181.221.86  SN2    94.11.17.5	  SE16  176.26.167.95	 DE23   2/5   not verified
 klarajawaria   bt    86.183.234.207  WN7   109.153.32.172  WR11  86.175.181.187  CH44   31.127.83.88   S4  1.5/5
-Vimartanara  Virgin  81.96.75.152	 DA7   82.9.172.69   HD5  DA12  1/5
+Vimartanara  Virgin  81.96.75.152	 DA7   82.9.172.69   HD5  82.9.176.29	  DA12  1/5
 Hashmatzitouna  Sky  90.200.125.14  W2  1.5/5
 cadidorgela  Virgin  80.1.232.21   WA7   82.4.245.55  TF3  2/5   Verified
 saelenasima   bt  31.126.164.186	DN14  217.39.203.164	 SK6   217.39.222.144	 WR3   1/5 
