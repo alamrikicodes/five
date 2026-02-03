@@ -26,7 +26,7 @@ blightsalifu   sky   151.228.75.119  SS17  90.202.183.251  ex 15   176.250.36.10
 sladechibi    sky      94.14.161.68	  WS2   151.225.154.119	 BN42  2.120.110.143	 SE28   86.181.221.86  SN2    94.11.17.5	  SE16  176.26.167.95	 DE23   2/5   not verified
 klarajawaria   bt    86.183.234.207  WN7   109.153.32.172  WR11  86.175.181.187  CH44   31.127.83.88   S4  1.5/5
 Vimartanara  Virgin  81.96.75.152	 DA7   82.9.172.69   HD5  82.9.176.29	  DA12  1/5
-Hashmatzitouna  Sky  90.200.125.14  W2  1.5/5
+Hashmatzitouna  Sky  90.200.125.14  W2   90.200.67.159   MK42  0/5
 cadidorgela  Virgin  80.1.232.21   WA7   82.4.245.55  TF3  2/5   Verified  on hold FEB 10
 saelenasima   bt  31.126.164.186	DN14  217.39.203.164	 SK6   217.39.222.144	 WR3   1/5  
 
