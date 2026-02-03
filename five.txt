@@ -17,7 +17,7 @@ aineseyhonar  BT  81.158.227.6  S66   86.170.143.142	 WA8   86.141.57.93  PE6  2
 luckinhasci virgin  77.103.55.76  N13   86.29.192.219  WA5  86.21.127.35  WV2   80.3.7.57  BS6   80.0.55.15  NE22   80.3.153.62	LS17    86.30.252.14   RM8   1/5 
 luzmarinafe   virgin  86.13.114.139  WF13  86.25.155.126	IG3   81.100.11.226   81.100.11.37  81.100.8.21	 	WV10   86.4.142.107  WA7   4.5/5   verified  U.R  NOV 11  08:07
 ronquiAntonnia   bt       109.147.216.90	WV6    31.49.95.232  DT4   86.183.222.23  AL5  86.142.77.154	 RH16   86.163.39.227  BB2   1/5  verified   Nov 9 04:28
-glicetonete  sky 90.193.204.152	B33   2.124.209.96	 S5   151.231.164.31	WS10   90.210.59.120	B69  176.248.46.4  E9  90.216.69.63  WS5   151.224.141.111	 N3   94.3.216.84  CR4	  2/5   verified  OCT 30 07:47
+glicetonete  sky 90.193.204.152	B33   2.124.209.96	 S5   151.231.164.31	WS10   90.210.59.120	B69  176.248.46.4  E9   2.121.57.70   NE10   2/5   verified  OCT 30 07:47
 nikonflach   sky    94.0.174.19   CT2   176.251.176.29	MK18   2.124.164.136  B20  2.221.101.194   2.221.100.22 	EX7  51.191.55.16	  LU5   5.64.227.140	 MK10  86.180.69.178    0/5 not verified
 pawspelka    bt   81.135.60.96  CT9   86.150.206.231  EC4R    217.42.180.245	  ST5  81.154.206.100  GU1  86.181.111.59	 B26  86.178.121.94  RG41  86.178.32.79  L32   3/5 not verified
 cearagalva   bt      81.156.45.193 	RG1  86.145.132.49  DA10   109.150.106.191	 HR9  86.175.118.49	 PE10    95.145.34.211   S65   4.5/5
@@ -105,7 +105,7 @@ arjun singh   virgin   86.20.124.53      verified     banned
 johann marie   virgin    77.102.24.158   95.144.25.171   N1   86.190.38.246 LS28   51.14.165.170  RG22   86.176.184.100	PR5        banned
 zhacker 252    sky     90.197.112.94     91.231.186.249 banned
 amala ahmad    sky      51.190.195.118    verified 4/5   banned 
-keen  E      Vodafone   84.67.61.57       banned
+keen  E      Vodafone   84.67.61.57   90.216.69.63  WS5   151.224.141.111	 N3   94.3.216.84  CR4       banned
 Alice B      Virgin     81.101.163.142 81.99.168.189  4/5  Verified Sep 9 02:32   UR 07:40 bannn
 Johnsongcharlies  three    92.40.73.160  w2  188.30.79.162    188.29.95.14		po12    1/5 BANN
 Emmanuel S Hudson   BT   86.155.176.173   DY4   86.155.153.151	  RH10   2.5/5   UR SEP 27 20:32  BANNNN
